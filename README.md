@@ -38,6 +38,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nklwwlkn&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00DD8D&fire=DD2727&stroke=DDDDDD&sideNums=DDDDDD)](https://github.com/nklwwlkn?tab=repositories)<br/>
 
+![](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg)
+
 Since 2022:
 ---
 ![](https://komarev.com/ghpvc/?username=nklwwlkn&style=for-the-badge&label=Visitors+Count&color=brightgreen)
