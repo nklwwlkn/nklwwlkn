@@ -38,7 +38,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nklwwlkn&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00DD8D&fire=DD2727&stroke=DDDDDD&sideNums=DDDDDD)](https://github.com/nklwwlkn?tab=repositories)<br/>
 
-![](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 Since 2022:
 ---
