@@ -41,8 +41,6 @@
 ![GitHub Snake Light](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/nklwwlkn/nklwwlkn/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-Since 2022:
----
-![](https://komarev.com/ghpvc/?username=nklwwlkn&style=for-the-badge&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=nklwwlkn&style=for-the-badge&label=Visitors+Count+Since+2022&color=brightgreen)
 
 </div>
