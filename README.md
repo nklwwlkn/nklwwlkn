@@ -2,8 +2,8 @@
 
 
 - 🌱 I'm currently learning DevOps & Highload best practices.
-- 💬 Ask me about anything you want if you hire. Just ping me via [Linkedin](https://www.linkedin.com/in/nklwwlkn/) or [Email](mailto:alex.nepochatyh@gmail.com) to agree on a time slot for a nice talk.
-- ⚡ Fun fact: I participated in the world largest on-site hackathon back in 2019. Sweet time... 
+- 💬 Ask me about anything you want if you hire. Just ping me via [Linkedin](https://www.linkedin.com/in/nklwwlkn/) or [Email](mailto:alex.nepochatyh@gmail.com) to agree on a time slot for a chat.
+- ⚡ Fun fact: I participated in the world largest on-site hackathon back in 2019. 
 
 
 <div align="center">
