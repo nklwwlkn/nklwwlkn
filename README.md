@@ -1,7 +1,6 @@
 ### Hi there 👋,  I'm [Aleksei](https://www.linkedin.com/in/nklwwlkn/)
 
 
-- 🌱 I'm currently learning DevOps & Highload best practices.
 - 💬 Ask me about anything you want if you hire. Just ping me via [Linkedin](https://www.linkedin.com/in/nklwwlkn/) or [Email](mailto:alex.nepochatyh@gmail.com) to agree on a time slot for a chat.
 - ⚡ Fun fact: I participated in the world largest on-site hackathon back in 2019. 
 
